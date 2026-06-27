@@ -37,5 +37,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'ruby_memcheck'
   s.add_development_dependency 'yard'
   s.add_development_dependency 'json'
-  s.add_development_dependency 'benchmark-ips', ['~> 2.10.0']
+  s.add_development_dependency 'benchmark-ips', ['~> 2.10']
 end
